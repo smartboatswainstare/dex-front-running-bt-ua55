@@ -1,4 +1,4 @@
-# 
+# smart bot de negociação Deribit executor é o melhor bot de negociação Deribit executor com gerenciamento de alavancagem e stop-loss. Seguro, confiável e otimizado para estratégias
 
 
 
